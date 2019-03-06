@@ -1,1 +1,5 @@
-ekkvfbbdfjbjdbfbvd
+node{
+sh label: '', script: '''pwd
+ls -a
+'''
+}
