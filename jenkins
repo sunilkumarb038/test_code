@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('One') {
                 steps {
-                        echo 'Hi, this is ROBINDER'
+                        echo 'Hi, this is TEST,PIPELINE'
 			
                 }
         }
